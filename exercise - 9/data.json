@@ -1,0 +1,55 @@
+{
+    "name": "Alex Carter",
+    "age": 29,
+    "email": "alex.carter@example.com",
+    "isActive": true,
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "zip": "10001",
+      "country": "USA"
+    },
+    "hobbies": ["gaming", "reading", "traveling"],
+    "skills": {
+      "programming": ["Python", "JavaScript", "C++"],
+      "AI": {
+        "machine_learning": true,
+        "deep_learning": true,
+        "reinforcement_learning": false
+      }
+    },
+    "social_media": [
+      {
+        "platform": "Twitter",
+        "username": "@alex_dev",
+        "followers": 4500
+      },
+      {
+        "platform": "GitHub",
+        "username": "alexcarter",
+        "repos": 24
+      }
+    ],
+    "preferences": {
+      "dark_mode": true,
+      "notifications": {
+        "email": false,
+        "sms": true,
+        "push": true
+      }
+    },
+    "projects": [
+      {
+        "name": "AI Chatbot",
+        "tech_stack": ["Python", "TensorFlow", "Flask"],
+        "completed": true
+      },
+      {
+        "name": "Portfolio Website",
+        "tech_stack": ["HTML", "CSS", "JavaScript"],
+        "completed": false
+      }
+    ],
+    "subscription": null
+  }
+  

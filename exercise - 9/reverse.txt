@@ -1,0 +1,5 @@
+Artificial intelligence (AI) is a branch of computer science that aims to build
+machines capable of performing tasks that typically require  human intelligence. 
+AI enables machines to simulate human abilities, such as learning, 
+problem-solving, decision-making and comprehension. Common applications of AI include 
+speech recognition, image recognition, c ontent generation, recommendation systems and self-driving cars.
